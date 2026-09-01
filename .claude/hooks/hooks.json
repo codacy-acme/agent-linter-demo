@@ -1,0 +1,8 @@
+{
+  "hooks": [
+    {
+      "event": "PreToolUse",
+      "run": "echo checking"
+    }
+  ]
+}
